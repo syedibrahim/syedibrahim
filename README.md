@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Site Reliability Engineer 
 - 🌱 I’m currently learning GoLang
 - 👯 I’m looking to collaborate on Computer Vision Projects
