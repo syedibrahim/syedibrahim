@@ -6,6 +6,7 @@
 - 🔭 I’m currently working as Site Reliability Engineer @PhonePe
 - 🌱 I’m currently learning GoLang and Perl
 - 👯 I’m looking to collaborate on Computer Vision Projects
+- 💻 I code in Python, C, Perl and Java
 - 💬 Ask me about AI/ML, Networks and other tech stuff
 - 📫 How to reach me: [Twitter: @ibr4him_s](https://twitter.com/ibr4him_s)
 - 😄 Pronouns: he/him
