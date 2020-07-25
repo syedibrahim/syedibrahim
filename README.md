@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I find new tech interest on instagram and twitter
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeeshanovic&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zeeshanovic&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
