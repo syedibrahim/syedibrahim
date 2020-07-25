@@ -6,11 +6,10 @@
 - 🔭 I’m currently working as Site Reliability Engineer 
 - 🌱 I’m currently learning GoLang
 - 👯 I’m looking to collaborate on Computer Vision Projects
-- 🤔 I’m looking for help with Perl
 - 💬 Ask me about Machine Learning, Networks and other tech stuff
 - 📫 How to reach me: [Twitter: @ibr4him_s](https://twitter.com/ibr4him_s)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I find new tech interest on instagram and twitter
+
 
 
 
