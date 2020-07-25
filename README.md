@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](SYED.gif)
 
 - 🔭 I’m currently working as Site Reliability Engineer 
 - 🌱 I’m currently learning GoLang
