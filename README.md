@@ -10,6 +10,6 @@
 - 📫 How to reach me: [Twitter: @ibr4him_s](https://twitter.com/ibr4him_s)
 - 😄 Pronouns: he/him
 
-Find my [gist here] (https://gist.github.com/zeeshanovic)
+Find my [gist here](https://gist.github.com/zeeshanovic)
 
 
