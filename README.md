@@ -10,6 +10,6 @@
 - 📫 How to reach me: [Twitter: @ibr4him_s](https://twitter.com/ibr4him_s)
 - 😄 Pronouns: he/him
 
-:link: Find my [gist here](https://gist.github.com/zeeshanovic)
-
-
+<a href="https://dev.to/ibrahims">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Syed Ibrahim's DEV Profile" height="30" width="30">
+</a>
