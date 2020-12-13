@@ -12,6 +12,3 @@
 
 
 ![](https://komarev.com/ghpvc/?username=syedibrahim&color=blueviolet) <br/>
-dev.to profile: <a href="https://dev.to/ibrahims">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Syed Ibrahim's DEV Profile" height="30" width="30">
-</a>
