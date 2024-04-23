@@ -3,12 +3,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=syedibrahim&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-- 🔭 I’m currently working as Site Reliability Engineer @PhonePe
+- 🔭 I’m currently working as Software Engineer @Wayfair
 - 🌱 Developing new tools and automating manual tasks
 - 👯 I’m looking to collaborate on any Python Projects
-- 💬 Ask me about Azure, Devops, Networks and other tech stuff
-- 📫 How to reach me: [Twitter: @ibr4him_s](https://twitter.com/ibr4him_s)
-- 😄 Pronouns: he/him
+- 💬 Ask me about FastAPI, Microservices, Dataflow, Networks and other tech stuff
+- 📫 How to reach me: [Twitter: @ibrahimsyed26](https://twitter.com/ibrahimsyed26)
+- 😄 Pronouns: he/him/his
 
 
 ![](https://komarev.com/ghpvc/?username=syedibrahim&color=blueviolet) <br/>
